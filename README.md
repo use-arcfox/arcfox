@@ -1,2 +1,2 @@
 # arcfox
-Project Migrated
+Project Migrated to https://github.com/betterbrowser/arcfox
